@@ -1,0 +1,93 @@
+.carousel-item .box{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    width: 50%;
+    height: 90%;
+    background-color: red;
+}
+.card {
+    background-color: #000000;
+    color: white;
+  }
+body {
+    background-color: #000000;}
+
+.box{
+        margin-top: 70px;
+        width: 100%;
+        height: 820px;
+        background-color: rgb(37, 124, 162);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.box .box-1{
+        width: 75%;
+        height: 93%;
+        background-color: rgb(0, 0, 0);
+    }
+    h5 {
+        color: white;
+      }
+      body {
+        background-color: #000000;
+      }
+      .navbar-brand {
+        font-size: 30px;
+      }
+      .header-anime {
+        color: orange;
+      }
+      .bi {
+        color: orange;
+      }
+      a {
+        text-decoration: none;
+        color: white;
+      }
+      footer .text-center {
+        background-color: #000000;
+        color: white;
+      }
+      
+      .card {
+        background-color: #000000;
+        color: white;
+        display: flex;
+      }
+      /* .card:hover{
+        transform: scale(1.02);
+        opacity: 0.5;
+      } */
+      .container-fluid img:hover {
+        transform: scale(1.02);
+        opacity: 0.5;
+      }
+      .d-grid a:hover {
+        transform: scale(1.02);
+      }
+      .navbar {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+      }
+      .Sad{
+        opacity: 0.5;
+      }
+      h2 {
+        color: white;
+      }
+      h5 {
+        color: gray;
+      }
+      h1 {
+        color: white;
+      }
+      h3 {
+        color: white;
+      }
+      h4 {
+        color: white;
+      }
+      

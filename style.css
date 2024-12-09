@@ -1,0 +1,56 @@
+body {
+  background-color: #000000;
+}
+.navbar-brand {
+  font-size: 30px;
+}
+.header-anime {
+  color: orange;
+}
+
+.bi {
+  color: orange;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+footer .text-center {
+  background-color: #000000;
+  color: white;
+}
+
+.card {
+  background-color: #000000;
+  color: white;
+}
+.container-fluid img:hover {
+  transform: scale(1.02);
+  opacity: 0.5;
+}
+.d-grid a:hover {
+  transform: scale(1.02);
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.Sad{
+  opacity: 0.5;
+}
+h2 {
+  color: white;
+}
+h5 {
+  color: gray;
+}
+h1 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
